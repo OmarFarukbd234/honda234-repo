@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .header-color {
+    background-color: #264653;
+  }
+  .btn-primary {
+    background-color: #e76f51 !important;
+  }
+  h6 {
+    color: #e76f51;
+  }
+  
+  .filter {
+    filter: grayscale(100%);
+  }
+  .img-fluid {
+    width: 300px;
+  }
+  
+  span {
+    color: #e76f51;
+  }
+  
+  .happy-client {
+    margin-top: 200px;
+  }
+  
+  .user-image {
+    margin: 40px 100px;
+  }
+  .card-body {
+    text-align: center;
+  }
+  
+  .card-heading {
+    color: #23a6f0;
+    /* margin-top: 50px; */
+  }
+  .star {
+    margin-bottom: 10px;
+  }
+  
+  .frequently-asked {
+    margin-top: 200px;
+  }
+  
+  /* bike slider starts here */
+  
+  #bikeslider {
+    background: #0d0442;
+    padding: 7% 10%;
+    margin-top: 200px;
+  }
+  
+  .hr-style {
+    border: 5px dotted white;
+    border-bottom: none;
+  }
+  
+  .carousel-item {
+    padding: 5% 15%;
+    text-align: center;
+    font-style: italic;
+  }
